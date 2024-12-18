@@ -1,0 +1,7 @@
+4 PROJECTS FOR DJANGO COURSE:
+    **** 1) TODO APP
+    **** 2) Register and Login System
+    **** 3) Event Management 
+    **** 4) Library / Bookstore
+
+    

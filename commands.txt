@@ -1,0 +1,7 @@
+1) pip install django
+2) pip install djangorestframework
+3) pip freeze > requirements.txt
+4) py/python manage.py runserver
+5) py/python manage.py startapp 
+6) py/python manage.py createsuperuser
+

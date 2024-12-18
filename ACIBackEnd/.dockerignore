@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+
+# Docker
+.docker
+
+# Python
+venv/
+env/
+__pycache__/
+ACIBackEnd/__pycache__/
+shared/__pycache__/
+shared/migrations/__pycache__/
+action_logger/__pycache__/
+action_logger/migrations/__pycache__/
+./*/__pycache__/
+./*/*/__pycache__/
+./*/*/*/__pycache__/
+

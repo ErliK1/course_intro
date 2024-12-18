@@ -1,0 +1,3 @@
+MESSAGE='message'
+DETAIL='detail'
+
